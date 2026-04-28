@@ -4,9 +4,7 @@ plugins {
 	id 'application'
 }
 application {
-    // Remplacez par le nom complet : 'nom_du_package.App'
-    // Si vous n'avez pas de package, laissez 'App' mais vérifiez l'emplacement du fichier
-    mainClass = 'anesbhd3.App' 
+    mainClass = 'epsi.App'
 }
 repositories {
     // Remplacez jcenter() par la ligne ci-dessous
